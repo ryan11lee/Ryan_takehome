@@ -1,0 +1,15 @@
+autogluon
+pandas
+scikit-learn
+lightgbm
+plotly
+ipykernel
+statsmodels
+nbformat
+textblob
+textstat
+seaborn
+matplotlib
+gensim
+nltk
+verstack
